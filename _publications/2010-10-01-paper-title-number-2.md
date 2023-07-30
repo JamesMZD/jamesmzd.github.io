@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Evaluator Preferences and Selection and Global Disparities in Science Publishing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023-07-31
+venue: 
+paperurl:
+citation:
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+The legitimacy of published science relies on peer review, which often results in lower evaluations for authors from non-Western countries. It has been suggested that these disparities are due to reviewers and editors, who are disproportionately Western, favoring research that is geographically or socially close. If so, diversifying reviewers and editors should reduce geographic disparities in publishing but little evidence exists to support this view. Here, we test whether reviewers from the same country as authors (same-country reviewers or SCRs) and author-suggested reviewers (ASRs) are systematically more positive in their reviews in a setting where what defines "quality" work should be relatively objective-- the physical sciences-- using administrative data on 170,597 submissions to 60 journals from a major publishing company.

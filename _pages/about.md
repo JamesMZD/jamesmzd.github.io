@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![James at NAS attending Metascience Conference 2023](/images/JMZDatNAS.jpg){: width="300px"}
+![James at NAS attending Metascience Conference 2023](/images/JMZDatNAS.jpg){: width="500px"}
 
 👨🏻‍💻 I am a second-year PhD Student at the University of Michigan School of Information. 
 
