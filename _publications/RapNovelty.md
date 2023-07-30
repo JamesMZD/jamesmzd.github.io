@@ -1,10 +1,10 @@
 ---
 title: "Innovation Dynamics of Cultural Production: Evidence in Rap Lyrics"
 collection: publications
-permalink: /publication/2020-05-07-rap-novelty
+permalink: /publication/RapNovelty
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-05-07
-venue: 'Journal 1'
+venue: 'Master's Thesis'
 paperurl: 'https://repository.usfca.edu/thes/1315/'
 citation: '<b>Zumel Dumlao, James M.</b>; Lei, Junjie; Nwosu, Emeka; Oon, Li Yu; Wong, Tsai Ling Jeffrey; Rising, James; and Anttila-Hughes, Jesse, &quot;Innovation Dynamics of Cultural Production: Evidence in Rap Lyrics&quot; (2020). <i> Master's Theses<\i>. 1315.
 https://repository.usfca.edu/thes/1315'
