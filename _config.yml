@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James M. **Zumel Dumlao**"
+title                    : "James M. Zumel Dumlao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "James M.\nZumel Dumlao"
+  name             : "James M. \\ Zumel Dumlao"
   avatar           : "JMZDatUMSI.JPG"
-  bio              : "PhD Student\nat the University of Michigan\nSchool of Information"
+  bio              : "PhD Student \\ at the University of Michigan \\ School of Information"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
