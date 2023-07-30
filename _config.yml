@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "James M. Zumel Dumlao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "James M. Zumel Dumlao"
 description              : &description "personal description"
 url                      : https://jamesmzd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "James M. \nZumel Dumlao"
   avatar           : "JMZDatUMSI.JPG"
-  bio              : "PhD Student \nUniversity of Michigan \nSchool of Information"
+  bio              : "PhD Student, \nUniversity of Michigan \nSchool of Information"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
