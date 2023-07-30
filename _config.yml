@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "James M.    Zumel Dumlao"
+  name             : "James M. \nZumel Dumlao"
   avatar           : "JMZDatUMSI.JPG"
-  bio              : "PhD Student          University of Michigan    School of Information"
+  bio              : "PhD Student \nUniversity of Michigan \nSchool of Information"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
