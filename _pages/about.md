@@ -18,4 +18,4 @@ redirect_from:
 
 🫱🏽‍🫲🏼 My current work is advised by [Misha Teplitskiy](https://sites.google.com/view/teplitskiy), and I am a member of the [Disco Lab](https://www.discolab.org/). I am serving as a School of Information steward for the [Graduate Employees Organization](https://www.geo3550.org/) and an elected member of the Doctoral Executive Committee (DEC). 
 
-🎓 I received my B.A./M.S. 4+1 in International and Development Economics from the University of San Francisco, where I wrote a thesis advised by [Jesse Antilla-Hughes](https://sites.google.com/site/jesseanttilahughes/).
+🎓 I received my B.A./M.S. 4+1 in International and Development Economics from the University of San Francisco, where I wrote a thesis advised by [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/).
