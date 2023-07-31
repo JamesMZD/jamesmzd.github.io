@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James M. Zumel Dumlao"
+title                    : "James M. <b>Zumel Dumlao</b>"
 title_separator          : "-"
 name                     : &name "James M. Zumel Dumlao"
 description              : &description "personal description"
