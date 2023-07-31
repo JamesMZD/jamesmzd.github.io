@@ -2,7 +2,7 @@
 title: "Innovation Dynamics of Cultural Production: Evidence in Rap Lyrics"
 collection: publications
 permalink: /publication/2020-05-RapNovelty
-excerpt: '<b>Zumel Dumlao, James M.</b>, Junjie Lei, Emeka Nwosu, Li Yu Oon, Tsai Ling Jeffrey Wong, James Rising, and Jesse Anttila-Hughes. Masters Thesis.'
+excerpt: '<b>Zumel Dumlao, James M.</b>, Junjie Lei, Emeka Nwosu, Li Yu Oon, Tsai Ling Jeffrey Wong, James Rising, and Jesse Anttila-Hughes. Master\'s Thesis.'
 date: 2020-05-07
 venue: 'USF Scholarship Repository'
 paperurl: 
