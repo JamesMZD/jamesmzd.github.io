@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I am a third-year PhD student at the University of Michigan School of Information. 
+👨🏻‍💻 I am a PhD candidate in my third year at the University of Michigan School of Information. 
 
 📚 My research interests are in knowledge and cultural production, science of science, and science and technology public policy. More specifically, I'm interested in the sociocultural factors that inspire the creation of new knowledge, as well as policies that promote novel and useful science. Current research focuses  on how laboratory working conditions shape the speed, direction, and quality of science.
 
