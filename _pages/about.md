@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I am a PhD candidate in my third year at the University of Michigan School of Information. 
+👨🏻‍💻 I am a PhD candidate in my 4th year at the University of Michigan School of Information. 
 
-📚 My research interests are in knowledge and cultural production, science of science, and science and technology public policy. More specifically, I'm interested in the sociocultural factors that inspire the creation of new knowledge, as well as policies that promote novel and useful science. Current research focuses on how laboratory working conditions shape the speed, direction, and quality of science.
+📚 My research interests are in knowledge and cultural production, science of science, and innovation strategy. More specifically, I'm interested in the sociocultural factors that shape how scientists produce and share new knowledge, as well as organizational practices that promote novel and useful innovation. Current investigations focus on how scientists' working conditions---largely determined at the laboratory level---influence the speed, direction, and quality of science.
 
 🔬 To answer these interdisciplinary questions, I use approaches from the computational social science and applied microeconomics toolkits.
 
-🫱🏽‍🫲🏼 My current work is advised by [Misha Teplitskiy](https://sites.google.com/view/teplitskiy), and I am a member of the [Disco Lab](https://www.discolab.org/). I am serving as a School of Information steward and co-head steward for professional schools for the [Graduate Employees Organization 3550](https://www.geo3550.org/). 
+🫱🏽‍🫲🏼 My doctoral work is advised by [Misha Teplitskiy](https://sites.google.com/view/teplitskiy), and I am a member of the [Disco Lab](https://www.science-of-science.com/discoverylab). I am currently serving as a union steward in the School of Information and as secretary of the [Graduate Employees Organization 3550](https://www.geo3550.org/). 
 
 🎓 I received my B.A./M.S. 4+1 in International and Development Economics from the University of San Francisco, where I wrote a thesis advised by [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/).
