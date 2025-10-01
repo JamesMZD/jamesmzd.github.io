@@ -10,7 +10,7 @@ redirect_from:
 
 👨🏻‍💻 I am a PhD candidate in my 4th year at the University of Michigan School of Information. 
 
-📚 My research interests are in knowledge and cultural production, science of science, and innovation strategy. More specifically, I'm interested in the sociocultural factors that shape how scientists produce and share new knowledge, as well as organizational practices that promote novel and useful innovation. Current investigations focus on how scientists' working conditions---largely determined at the laboratory level---influence the speed, direction, and quality of science.
+📚 My research interests are in the science of science, knowledge management, and innovation strategy. More specifically, I'm interested in the sociocultural factors that shape how scientists produce and share new knowledge, as well as organizational practices that promote novel and useful innovation. Current investigations focus on how scientists' working conditions---largely determined at the laboratory level---influence the speed, direction, and quality of science.
 
 🔬 To answer these interdisciplinary questions, I use approaches from the computational social science and applied microeconomics toolkits.
 
