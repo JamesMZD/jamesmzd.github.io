@@ -10,7 +10,7 @@ redirect_from:
 
 👨🏻‍💻 I am a PhD candidate in my 4th year at the University of Michigan School of Information. 
 
-📚 My research interests are in the science of science, knowledge management, and innovation strategy. More specifically, I'm interested in the sociocultural factors that shape how scientists produce and share new knowledge, as well as organizational practices that promote novel and useful innovation. Current investigations focus on how scientists' working conditions---largely determined at the laboratory level---influence the speed, direction, and quality of science.
+📚 My research interests are in the science of science, knowledge management, and research policy. More specifically, how the choices of actors in knowledge systems and organizations shape the creation and communication of new knowledge, as well as policies and practices that promote learning, innovation, and (hopefully) human flourishing. Current investigations focus on the underappreciated effects of generative AI tools and policies attempting to manage their use in research and higher education.
 
 🔬 To answer these interdisciplinary questions, I use approaches from the computational social science and applied microeconomics toolkits.
 
