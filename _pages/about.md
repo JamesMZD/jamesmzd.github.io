@@ -10,7 +10,11 @@ redirect_from:
 
 👨🏻‍💻 I am a PhD candidate in my 4th year at the University of Michigan School of Information. 
 
+<<<<<<< HEAD
 📚 My research interests are in the science of science, knowledge management, and research policy. More specifically, I study how the choices of actors in knowledge systems and organizations shape the creation and communication of new knowledge, as well as policies and practices that promote learning, innovation, and (hopefully) human flourishing. Current investigations focus on underappreciated effects of generative AI tools and policies attempting to manage their use in research and higher education.
+=======
+📚 My research interests are in the science of science, knowledge management, and research policy. More specifically, how the choices of actors in knowledge systems and organizations shape the creation and communication of new knowledge, as well as policies and practices that promote learning, innovation, and (hopefully) human flourishing. Current investigations focus on the underappreciated effects of generative AI tools and policies attempting to manage their use in research and higher education.
+>>>>>>> 173f66b1dafeefc841628aaed96562e8e5b452a1
 
 🔬 To answer these interdisciplinary questions, I use approaches from the computational social science and applied microeconomics toolkits, including agentic workflows.
 
